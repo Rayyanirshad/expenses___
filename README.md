@@ -111,3 +111,9 @@ Date         | Category        | Description          | Amount
 2023-11-02   | Transport       | Bus Ticket           | $2.75
 -----------------------------------------------------------------
 Total Spent: $15.25
+
+
+
+
+<img width="855" height="795" alt="image" src="https://github.com/user-attachments/assets/031d9582-d273-4c31-8391-09b7af8b82e1" />
+
